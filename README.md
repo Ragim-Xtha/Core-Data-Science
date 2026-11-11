@@ -1,2 +1,2 @@
 # Core-Data-Science
-hahaha
+This is the page for only data analyst and data science project
